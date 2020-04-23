@@ -15,8 +15,11 @@ public class App {
         System.out.println("Kremowo-truskawkowe koszt: "+ kremowoTruskawkowe.getCost()+"\nSkład: "+kremowoTruskawkowe.getIngredients()+"\n");
         System.out.println("Czekoladowo-truskawkowe koszt: "+ czekoladowoTruskawkowe.getCost()+"\nSkład: "+czekoladowoTruskawkowe.getIngredients()+"\n");
 
-
-
+        //Dodawanie do tego samego obiektu
+        Basic cake=new Basic();
+        cake=new WithChocolate(cake);
+        cake=new WithCream(cake);
+        System.out.println("Czekoladowo-kremowe koszt: "+cake.getCost()+"\nSkład: "+cake.getIngredients()+"\n");
 
     }
 }
