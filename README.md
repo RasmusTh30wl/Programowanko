@@ -1,8 +1,8 @@
 # Programowanko
-
+-----
 ## Ogólne informacje
 
-### Zasady Zaliczenia
+### Zasady Zaliczenia  
 Zaliczenie ćwiczeń:
 
 - obecność powyżej 85% (39/45h)
@@ -39,7 +39,9 @@ Ocena z ćwiczeń:
 
 Ocena końcowa będzie uzależniona od wyniku z ćwiczeń oraz wyniku testu końcowego.
 
-W sesji poprawkowej odbędzie się jedno kolokwium poprawkowe, dla wszystkich osób, które nie zaliczyły przedmiotu w pierwszym terminie. Kolokwium będzie obejmować całość materiału.
+W sesji poprawkowej odbędzie się jedno kolokwium poprawkowe, dla wszystkich osób, które nie zaliczyły przedmiotu w pierwszym terminie. Kolokwium będzie obejmować całość materiału.  
+
+---
 
 ### Tematy
 1. Wprowadzenie do języka Java. Kompilacja i uruchamianie programów w języku Java. Maszyna wirtualna Javy. Wstęp do programowania obiektowego: obiekty i klasy, pola, metody. Dziedziczenie i polimorfizm, klasy abstrakcyjne, interfejsy, tworzenie obiektów oraz korzystanie z ich pól i metod.  
@@ -62,7 +64,9 @@ Kolokwium
 12. Elementy programowania współbieżnego.
 13. Graficzny interfejs użytkownika. 
 
-Test zaliczeniowy
+Test zaliczeniowy  
+
+---
 
 ### Literatura
 
@@ -80,7 +84,9 @@ Tutoriale:
 
 Zadania w javie:
 
-1. https://www.w3resource.com/java-exercises/basic/index.php
+1. https://www.w3resource.com/java-exercises/basic/index.php  
+
+---
 
 ### Materiały z wykładów
 [Link](https://bitbucket.org/przemstp/java-oop/src/master/)
@@ -107,17 +113,26 @@ Pojedyncze rozwiązania znajdują się też w odpowiednich folderach repozytoriu
 Przykład ilustrujący definiowanie klas (konstruktory, pola, metody), dziedziczenie oraz polimorfizm.  
 [Projekt Figury](https://bitbucket.org/przemstp/java-oop/src/master/figury/)  
 Przykład ilustrujący użycie klas abstrakcyjnych oraz interfejsów.  
+
+---
+
 ### Wykład 04.03.2020
 [Obiekty i klasy - systematyczny opis dotyczący definiowania klas i kworzenia obiektów](https://docs.oracle.com/javase/tutorial/java/javaOO/index.html)  
 [Definiowanie i użycie interfejsów](https://docs.oracle.com/javase/tutorial/java/IandI/index.html)  
 [Projekt Okna](https://bitbucket.org/przemstp/java-oop/src/master/Okna/)  
 Przykład ilustrujący technikę "dekorowania obiektów" (rozszerzanie funkcjonalności).  
+
+---
+
 ### Wykład 11.03.2020
 [Zmienne, operatory, wyrażania, instrukcje, bloki, instrukcje sterujące](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)  
 [Projekt expr](https://bitbucket.org/przemstp/java-oop/src/master/expr/)  
 Przykład ilustrujący zastosowanie operatora "instanceof" - badanie przynależności obiektów do klas.  
 [Projekt expr2](https://bitbucket.org/przemstp/java-oop/src/master/expr2/)  
 Przykład użycia operatorów arytmetycznych.  
+
+---
+
 ### Wykład 25.03.2020 (online)  
 [Nagranie na YT](https://www.youtube.com/watch?v=yf6XlSXVPLY)  
 [Tablice - deklaracja zmiennych, tworzenie, obsługa](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)  
@@ -125,6 +140,9 @@ Przykład użycia operatorów arytmetycznych.
 [Łańcuchy znaków, klasa String](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)  
 [Projekty arrays1, number1, string1](https://bitbucket.org/przemstp/java-oop/)  
 Ilustracja zagadnień omawianych na wykładzie.  
+
+---
+
 ### Wykład 01.04.2020 i 08.04.2020 (online)
 [Nagranie na YT](https://www.youtube.com/watch?v=Ehj9YNYJaV8)  
 Wykład 01.04.2020  
