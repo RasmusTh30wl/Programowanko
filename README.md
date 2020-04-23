@@ -1,5 +1,4 @@
 # Programowanko
------
 ## Ogólne informacje
 
 ### Zasady Zaliczenia  
