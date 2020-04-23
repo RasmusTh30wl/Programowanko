@@ -1,9 +1,5 @@
 # Programowanko
 
-**Table of Contents**  
-
-[TOCM]
-
 ## Ogólne informacje
 
 ### Zasady Zaliczenia
