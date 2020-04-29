@@ -1,10 +1,10 @@
-Informacje:
+#### Informacje:
 
 Rozwiązanie każdego z zadań powinno stanowić oddzielny projekt. Rozwiązania wszystkich zadań należy ulokować w jednym katalogu nazwanym nazwiskiem i imieniem, katalog spakować i umieścić w polu wysyłania. Na rozwiązanie mają Państwo 3 godziny. Po upływie czasu nie będzie możliwości przesłania rozwiązań. Zadania należy rozwiązać samodzielnie. Rozwiązania będą sprawdzane również pod kątem plagiatu.
 
- 
+---
 
-Zadanie 1.
+#### Zadanie 1.
 
 Napisz klasę posiadającą prywatne pole typu String. Ponadto klasa powinna posiadać:
 
@@ -24,9 +24,9 @@ Przykład:
 
 Zakładamy, że napis składa się jedynie z liter i spacji.
 
- 
+---
 
-Zadanie 2.
+#### Zadanie 2.
 
 Zdefiniuj abstrakcyjną klasę modelującą papiery wartościowe. Klasa powinna posiadać:
 
@@ -62,9 +62,9 @@ Napisz klasę reprezentującą portfel papierów wartościowych. Klasa składa s
 
 Utwórz obiekt klasy portfel, a następnie wyświetl jego koszt po jednym kroku.
 
- 
+---
 
-Zadanie 3.
+#### Zadanie 3.
 
 Dane są dwa interfejsy
 
@@ -102,6 +102,8 @@ oraz publiczne metody:
 
 W razie potrzeby, można dopisywać prywatne pola i metody obu klas. 
 
- 
+---
 
 Podpowiedź: W klasie Line umieść obiekt Modem, którego metoda call będzie wywoływana.
+
+---
