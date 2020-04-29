@@ -1,3 +1,11 @@
+
+/*
+Zadanie 3.
+Napisz klasę Student, która dziedziczy po klasie User. 
+Student powinien mieć dodatkowe pole określające semestr ustawiane z poziomu konstruktora. 
+Napisz metodę wypisującą informacje o studencie wykorzystując metodę print z klasy User.
+*/
+
 package com.company;
 
 
