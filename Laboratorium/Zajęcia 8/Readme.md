@@ -1,4 +1,4 @@
-Zajęcia 8
+Zajęcia 8  
 Zadanie 1.
 
 Napisz szablon klasy posiadającej pole prywatne typu szablonowego. Dopisz publiczny konstruktor ustawiający tę wartość, akcesor i mutator.
