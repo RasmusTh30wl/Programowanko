@@ -134,7 +134,7 @@ Przykład użycia operatorów arytmetycznych.
 ---
 
 ### Wykład 25.03.2020 (online)  
-[Nagranie na YT](https://www.youtube.com/watch?v=yf6XlSXVPLY)  
+[<img src="https://secureservercdn.net/45.40.144.60/cf9.711.myftpupload.com/wp-content/uploads/2020/03/watch-on-youtube-vbf.png" width="201" height="83" title="Obejrzyj wykład na YouTube">](https://www.youtube.com/watch?v=yf6XlSXVPLY)  
 [Tablice - deklaracja zmiennych, tworzenie, obsługa](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)  
 [Liczby, klasa Number](https://docs.oracle.com/javase/tutorial/java/data/numbers.html)  
 [Łańcuchy znaków, klasa String](https://docs.oracle.com/javase/tutorial/java/concepts/index.html)  
@@ -144,7 +144,7 @@ Ilustracja zagadnień omawianych na wykładzie.
 ---
 
 ### Wykład 01.04.2020 i 08.04.2020 (online)
-[Nagranie na YT](https://www.youtube.com/watch?v=Ehj9YNYJaV8)  
+[<img src="https://secureservercdn.net/45.40.144.60/cf9.711.myftpupload.com/wp-content/uploads/2020/03/watch-on-youtube-vbf.png" width="201" height="83" title="Obejrzyj wykład na YouTube">](https://www.youtube.com/watch?v=Ehj9YNYJaV8)  
 Wykład 01.04.2020  
 [Klasa StringTokenizer](https://docs.oracle.com/javase/7/docs/api/java/util/StringTokenizer.html)  
 Zaawansowane przetwarzanie łańcuchów znaków.  
@@ -166,7 +166,7 @@ Zaawansowane przetwarzanie łańcuchów znaków.
 
 ---
 
-### Wykład 29.04.2020 (online)  
+### Wykład 29.04.2020 (online)
 [<img src="https://secureservercdn.net/45.40.144.60/cf9.711.myftpupload.com/wp-content/uploads/2020/03/watch-on-youtube-vbf.png" width="201" height="83" title="Obejrzyj wykład na YouTube">](https://www.youtube.com/watch?v=SNZ6Emu4Reo)  
 [Współbieżność](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)
 
