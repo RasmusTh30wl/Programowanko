@@ -1,4 +1,4 @@
-Zadanie 1.
+#### Zadanie 1.
 
 Utwórz wzorzec dekoratora tortów. 
 
@@ -26,9 +26,9 @@ f) Napisz klasę dziedziczącą po klasie z podpunktu c) będącą reprezentacj�
 
 g) Utwórz polimorficzne obiekty, będące obiektem klasy z punktu b), dekorując je wybranymi obiektami klas z punktów d), e) i f). Przetestuj wielokrotne dekorowanie tego samego obiektu bazowego. Wywołaj metody z punktu a) tych obiektów.
 
- 
+---
 
-Zadanie 2.
+#### Zadanie 2.
 
 Napisz klasę Animal modelującą populację zwierząt na danym obszarze, posiadającą prywatne pola:
 
@@ -50,9 +50,9 @@ Oba konstruktory powinny informować o utworzeniu nowego obiektu.
 
 Należy napisać metodę zwiększającą wiek o 1, zwracającą fałsz, jeżeli zwierzę osiągnie maksymalny wiek, a prawdę w przeciwnym przypadku. Należy wyświetlić informację o umierającym osobniku.
 
- 
+---
 
-Zadanie 3.
+#### Zadanie 3.
 
 Napisz klasę Ecosystem. Ma ona posiadać:
 
@@ -66,3 +66,4 @@ Napisz klasę Ecosystem. Ma ona posiadać:
   
   - Co tok zwierzęta tego samego gatunku, starsze niż rok, łączą się w pary (za każdym razem nowe). Każdej parze w kolejnym roku urodzi się młode. (Na przykład 5 samców i 3 samice stworzy 3 pary i w kolejnym roku w populacji pojawią się 3 młode.)
   
+---
