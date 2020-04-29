@@ -19,6 +19,12 @@ Zadanie 6.
 Napisz konstruktor kopiujący klasy Subject, który usunie wszystkich studentów z wynikowego przedmiotu.
 */
 
+/*
+Zadanie 7.
+Napisz metodę statyczną klasy Subject, która przymie jako argumenty tablicę przedmiotów oraz obiekt studenta i zwróci tablicę 
+przedmiotów, do których przypisany jest dany student.
+*/
+
 package com.company;
 
 import java.lang.reflect.Array;
