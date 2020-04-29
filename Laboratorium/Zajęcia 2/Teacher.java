@@ -1,3 +1,11 @@
+
+/*
+Zadanie 2.
+Napisz klasę Teacher, która dziedziczy po klasie User, której prywatne pola należy zmienić na chronione. 
+Teacher powinien mieć dodatkowe pole ustawiane w konstruktorze, określające jednostkę, w której pracuje. 
+Napisz metodę print wypisującą login i password nauczyciela wykorzystując metodę print z klasy User.
+*/
+
 package com.company;
 
 public class Teacher extends User {
