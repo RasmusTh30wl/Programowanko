@@ -2,7 +2,7 @@ Zadanie 1.
 
 Napisz klasę abstrakcyjną RegularPolyhedron modelującą bryłę posiadającą wielokąt foremny w podstawie. Ma ona posiadać:
 
- - prywatne, zmiennoprzecinkowe zmienne określające długość boku podstawy, pole podstawy, wysokość bryły oraz prywatną, całkowitą zmienną określającą ilość boków postawy,
+- prywatne, zmiennoprzecinkowe zmienne określające długość boku podstawy, pole podstawy, wysokość bryły oraz prywatną, całkowitą zmienną określającą ilość boków postawy,
 - publiczny konstruktor, przyjmujący w argumentach trzy wartości – długość boku, ilość boków i wysokość, dodatkowo obliczający wartość pola postawy,
 - chronione gettery do pola podstawy i wysokości,
 - abstrakcyjną, bezargumentową metodę volume zwracającą wartość zmiennoprzecinkową będącą objętością bryły.
