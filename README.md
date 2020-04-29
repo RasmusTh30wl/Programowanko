@@ -92,15 +92,16 @@ Zadania w javie:
 
 
 ## Laboratorium
-[Zajęcia 1.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%201/Zaj%C4%99cia%201.txt)  
-[Zajęcia 2.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%202/Zaj%C4%99cia%202.txt)  
-[Zajęcia 3.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%203/Zaj%C4%99cia%203.txt)  
-[Zajęcia 4.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%204/Zaj%C4%99cia%204.txt)  
-[Zajęcia 5.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%205/Zaj%C4%99cia%205.txt)  
-[Zajęcia 6.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%206/Zaj%C4%99cia%206.txt)  
-[Zajęcia 7.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%207/Zaj%C4%99cia%207.txt)
+[Zajęcia 1.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%201/Zaj%C4%99cia%201.md)  
+[Zajęcia 2.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%202/Zaj%C4%99cia%202.md)  
+[Zajęcia 3.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%203/Zaj%C4%99cia%203.md)  
+[Zajęcia 4.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%204/Zaj%C4%99cia%204.md)  
+[Zajęcia 5.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%205/Zaj%C4%99cia%205.md)  
+[Zajęcia 6.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%206/Zaj%C4%99cia%206.md)  
+[Zajęcia 7.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%207/Zaj%C4%99cia%207.md)  
+[Zajęcia 8.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%208/Zaj%C4%99cia%208.md)
 
-[Rozwiązania](https://drive.google.com/open?id=1GmbpeUITudr24stH7UU14EF_UM0Zeo10)  
+[Rozwiązania](https://drive.google.com/open?id=1sZPU2Tt9LfgGWw9_v0KHoiQlFtal3T1S)  
 To plik ze wszystkimi rozwiązaniami zebranymi w jedno archwium.  
 Pojedyncze rozwiązania znajdują się też w odpowiednich folderach repozytorium.
 
@@ -149,3 +150,22 @@ Wykład 01.04.2020
 Zaawansowane przetwarzanie łańcuchów znaków.  
 [Wyjątki](https://docs.oracle.com/javase/tutorial/essential/exceptions/index.html)  
 [Klasy obsługujące wejście-wyjście](https://docs.oracle.com/javase/tutorial/essential/io/index.html)  
+
+---
+
+### Wykład 15.04.2020 (online)  
+[Programowanie ougólnione (generyczne)](https://docs.oracle.com/javase/tutorial/java/generics/index.html)  
+[Projekty: gen01-gen05 z wykładu](https://bitbucket.org/przemstp/java-oop/src/master/)  
+[Interfejs List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)  
+
+---
+
+### Wykład 22.04.2020 (online)  
+[Wyrażenia lambda](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)  
+[Projekty lambda01 i lambda02 w wykładu](https://bitbucket.org/przemstp/java-oop/src/master/)  
+
+---
+
+### Wykład 29.04.2020 (online)  
+[Nagranie na YT](https://www.youtube.com/watch?v=SNZ6Emu4Reo)  
+
