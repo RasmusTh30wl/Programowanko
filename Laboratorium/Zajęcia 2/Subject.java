@@ -14,6 +14,11 @@ Jeżeli student o podanym indeksie znajduje się w tablicy przedmiotu, należy u
 obiekt tego studenta. W przeciwnym razie należy ustawić fałsz i zwrócić dowolną wartość.
 */
 
+/*
+Zadanie 6.
+Napisz konstruktor kopiujący klasy Subject, który usunie wszystkich studentów z wynikowego przedmiotu.
+*/
+
 package com.company;
 
 import java.lang.reflect.Array;
