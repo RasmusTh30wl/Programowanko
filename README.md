@@ -144,7 +144,7 @@ Ilustracja zagadnień omawianych na wykładzie.
 ---
 
 ### Wykład 01.04.2020 i 08.04.2020 (online)  
-&nbsp;&nbsp;Wykład 01.04.2020:  
+&nbsp;&nbsp;&nbsp;Wykład 01.04.2020:  
 [<img src="https://secureservercdn.net/45.40.144.60/cf9.711.myftpupload.com/wp-content/uploads/2020/03/watch-on-youtube-vbf.png" width="201" height="83" title="Obejrzyj wykład na YouTube">](https://www.youtube.com/watch?v=Ehj9YNYJaV8)  
 [Klasa StringTokenizer](https://docs.oracle.com/javase/7/docs/api/java/util/StringTokenizer.html)  
 Zaawansowane przetwarzanie łańcuchów znaków.  
