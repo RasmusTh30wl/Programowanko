@@ -1,3 +1,19 @@
+
+/*
+Zadanie 4.
+Napisz klasę Subject posiadającą prywatne pole będące nazwą przedmiotu, maksymalną liczbę studentów, nauczyciela prowadzącego 
+oraz odpowiednio dużą tablicę obiektów typu Student - dwie pierwsze ustawiane z konstruktora. 
+Powinna ona mieć logiczną metodę addStudent dodającą studenta do przedmiotu i zwracającą prawdę, jeżeli się to udało, albo fałsz 
+kiedy nie ma już miejsc.
+*/
+
+/*
+Zadanie 5.
+Napisz metodę klasy Subject, która przyjmie numer albumu studenta oraz obiekt będący wraperem wartości logicznej. 
+Jeżeli student o podanym indeksie znajduje się w tablicy przedmiotu, należy ustawić wartość logiczną z argumentu na true i zwrócić 
+obiekt tego studenta. W przeciwnym razie należy ustawić fałsz i zwrócić dowolną wartość.
+*/
+
 package com.company;
 
 import java.lang.reflect.Array;
