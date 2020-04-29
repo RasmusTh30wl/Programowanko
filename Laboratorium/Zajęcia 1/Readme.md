@@ -1,11 +1,13 @@
 ## Zajęcia 1  
 
-Zadanie 1.  
+Zadanie 1.
+
 Napisz klasę Point posiadającą dwa pola prywatne typu float. Napisz akcesory do tych pól.  
 
 ---
 
 Zadanie 2a.  
+
 Do klasy Point dopisz metodę move, która przyjmie dwa argumenty typu float - x i y, która przesunie punkt o zadany wektor.  
 
 ---
