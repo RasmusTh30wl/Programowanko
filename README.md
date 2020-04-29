@@ -92,14 +92,14 @@ Zadania w javie:
 
 
 ## Laboratorium
-[Zajęcia 1.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%201/Zaj%C4%99cia%201.md)  
-[Zajęcia 2.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%202/Zaj%C4%99cia%202.md)  
-[Zajęcia 3.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%203/Zaj%C4%99cia%203.md)  
-[Zajęcia 4.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%204/Zaj%C4%99cia%204.md)  
-[Zajęcia 5.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%205/Zaj%C4%99cia%205.md)  
-[Zajęcia 6.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%206/Zaj%C4%99cia%206.md)  
-[Zajęcia 7.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%207/Zaj%C4%99cia%207.md)  
-[Zajęcia 8.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%208/Zaj%C4%99cia%208.md)
+[Zajęcia 1.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%201)  
+[Zajęcia 2.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%202)  
+[Zajęcia 3.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%203)  
+[Zajęcia 4.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%204)  
+[Zajęcia 5.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%205)  
+[Zajęcia 6.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%206)  
+[Zajęcia 7.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%207)  
+[Zajęcia 8.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%208)
 
 [Rozwiązania](https://drive.google.com/open?id=1sZPU2Tt9LfgGWw9_v0KHoiQlFtal3T1S)  
 To plik ze wszystkimi rozwiązaniami zebranymi w jedno archwium.  
@@ -167,5 +167,7 @@ Zaawansowane przetwarzanie łańcuchów znaków.
 ---
 
 ### Wykład 29.04.2020 (online)  
-[Nagranie na YT](https://www.youtube.com/watch?v=SNZ6Emu4Reo)  
+[<img src="https://secureservercdn.net/45.40.144.60/cf9.711.myftpupload.com/wp-content/uploads/2020/03/watch-on-youtube-vbf.png" width="201" height="83" title="Obejrzyj wykład na YouTube">](https://www.youtube.com/watch?v=SNZ6Emu4Reo)  
+[Współbieżność](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)
 
+---
