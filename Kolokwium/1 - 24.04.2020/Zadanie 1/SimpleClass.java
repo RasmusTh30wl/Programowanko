@@ -9,12 +9,12 @@ public class SimpleClass {
     public void SimpleMethod(char a, char b){
         String result="";
         for (String x:str.split(" ")) {
-            if (x.toLowerCase().startsWith(String.valueOf(a))&&x.toLowerCase().endsWith(String.valueOf(b))){
+            if (x.toLowerCase().startsWith(String.valueOf(a).toLowerCase())&&x.toLowerCase().endsWith(String.valueOf(b).toLowerCase())){
                 result+=x.charAt(0);
                 for (int i = 0; i <x.length()-2 ; i++) {
                     result+='*';
                 }
-                result+=b;
+                result+=x.charAt(x.length()-1);
             }
             else{
                 result+=x;
@@ -43,7 +43,7 @@ public class SimpleClass {
     public void metoda1(char a, char b) {
         StringBuilder builder1 = new StringBuilder();
         for (String s : str.split(" ")) {
-            if (s.toLowerCase().startsWith(String.valueOf(a))&&s.toLowerCase().endsWith(String.valueOf(b))) {
+            if (s.toLowerCase().startsWith(String.valueOf(a).toLowerCase())&&s.toLowerCase().endsWith(String.valueOf(b).toLowerCase())) {
                 builder1.append(s.charAt(0));
                 for (int i = 0; i < s.length() - 2; i++) {
                     builder1.append("*");
