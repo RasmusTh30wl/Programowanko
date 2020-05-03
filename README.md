@@ -93,11 +93,13 @@ Zadania w javie:
 ## Kolokwia
 ### Kolokwium 1 - 24.04.2020
 [Treść i moje rozwiązania](https://github.com/RasmusTh30wl/Programowanko/tree/master/Kolokwium/1%20-%2024.04.2020)  
-Strona na githubie z treścią zadań i moimi rozwiązaniami 300/300pkt. 
+Strona na githubie z treścią zadań i moimi rozwiązaniami 300/300pkt.  
 [Download](https://drive.google.com/open?id=1ojwSYzUHNfj53-_huyWzIJo5hnx5xOT7)  
-Link do pobrania moich rozwiązań z dysku Google.
+Link do pobrania moich rozwiązań z dysku Google.  
 [Rozwiązania od prowadzących](https://drive.google.com/open?id=1mkHRU9MT5j4LVLVA8OpS6wt-4SN1FBsc)  
-Link do pobrania rozwiązań od prowadzących z dysku Google.
+Link do pobrania rozwiązań od prowadzących z dysku Google.  
+
+---
 
 ## Laboratorium
 [Zajęcia 1.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%201)  
