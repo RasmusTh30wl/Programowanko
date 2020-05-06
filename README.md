@@ -101,6 +101,14 @@ Test zaliczeniowy
 
 8. [100 ważnych pytań dotyczących Javy](https://www.guru99.com/java-interview-questions-answers.html)<sub>eng</sub>  
 
+9. [CodeAcademy](https://www.codecademy.com/learn/learn-java)<sub>eng</sub>  
+
+10. [Java 8 Tutorial](https://github.com/winterbe/java8-tutorial)<sub>eng</sub> 
+
+11. [Java 9-11 Tutorial ](https://winterbe.com/posts/2018/09/24/java-11-tutorial/)<sub>eng</sub> 
+
+12. [Java frameworks, libraries and software](https://github.com/akullpp/awesome-java)<sub>eng</sub>
+
 ---
 
 #### Tutoriale video:
@@ -136,6 +144,8 @@ Test zaliczeniowy
 4. [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)<sub>eng</sub>  
    Tabelka, pokazująca umiejętności programisty podzielone na kategorie i poziomy.  
    
+5. [Przydatne linki](https://github.com/Vedenin/useful-java-links/blob/master/readme.md)<sub>eng</sub> 
+   
 ---
 
 #### Zadania w javie:
@@ -145,6 +155,8 @@ Test zaliczeniowy
 2. [Code Wars](https://www.codewars.com/)<sub>eng</sub> 
 
 3. [Daily Programmer](https://www.reddit.com/r/dailyprogrammer/)<sub>eng</sub> 
+
+4. [CodingBat](https://codingbat.com/java)<sub>eng</sub> 
 
 ---
 
