@@ -1,5 +1,9 @@
 ## Zajęcia 9
 
+Wyrażenia lambda, strumienie, Consumer, Predicate, Comparator.
+
+---
+
 #### Zadanie 1.
 
 Napisz metodę, która wyzeruje elementy listy liczb całkowitych, jeżeli nie zawierają się w przekazanym argumentami funkcji zakresie. 
