@@ -152,9 +152,10 @@ Link do pobrania rozwiązań od prowadzących z dysku Google.
 [Zajęcia 5.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%205)  
 [Zajęcia 6.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%206)  
 [Zajęcia 7.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%207)  
-[Zajęcia 8.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%208)
+[Zajęcia 8.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%208)  
+[Zajęcia 9.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%209)
 
-[Rozwiązania](https://drive.google.com/open?id=1sZPU2Tt9LfgGWw9_v0KHoiQlFtal3T1S)  
+[Rozwiązania](https://drive.google.com/open?id=1xCW8yIk8UXEpvM3rhzL4k4hBx_LuHohR)  
 To plik ze wszystkimi rozwiązaniami zebranymi w jedno archwium.  
 Pojedyncze rozwiązania znajdują się też w odpowiednich folderach repozytorium.
 
