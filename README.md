@@ -69,21 +69,74 @@ Test zaliczeniowy
 
 ### Literatura
 
-1. [Dokumentacja](https://docs.oracle.com/javase/8/docs/api/)
+1. [Dokumentacja](https://docs.oracle.com/javase/8/docs/api/)<sub>eng</sub>
 
-2. G. Cornell, C. Horstmann, Java. Podstawy.
+2. [Słowa kluczowe (keywords) w Javie](https://docs.oracle.com/cd/E13226_01/workshop/docs81/pdf/files/workshop/JavaKeywordReference.pdf)<sub>eng</sub>
 
-Tutoriale:
+3. [C. Horstmann, Java. Podstawy.](https://www.ceneo.pl/87688917)<sub>pl</sub>
 
-1. https://docs.oracle.com/javase/tutorial/index.html
+4. [C. Horstmann, Java. Techniki zaawansowane.](https://www.ceneo.pl/90767068)<sub>pl</sub> 
 
-2. https://www.w3schools.com/java/default.asp
+Tutoriale tekstowe:
 
-3. https://www.javappa.com/kurs-java/klasy-i-obiekty-w-zyciu
+1. [Oracle](https://docs.oracle.com/javase/tutorial/index.html)<sub>eng</sub>
+
+2. [w3schools](https://www.w3schools.com/java/default.asp)<sub>eng</sub>
+
+3. [JavAPPa](https://www.javappa.com/kurs-java/klasy-i-obiekty-w-zyciu)<sub>pl</sub>
+
+4. [Samouczek Programisty](https://www.samouczekprogramisty.pl/kurs-programowania-java/)<sub>pl</sub>
+
+5. [JavaStart](https://javastart.pl/baza-wiedzy)<sub>pl</sub>
+
+6. [DevCave](https://devcave.pl/archiwum#effective-java)<sub>pl</sub>
+
+7. [Kobiety do kodu/Kurs Java](https://kobietydokodu.pl/kategoria/kurs-javy/)<sub>pl</sub> 
+
+8. [Kobiety do kody/Niezbędnik Juniora](https://kobietydokodu.pl/kategoria/niezbednik-juniora/)<sub>pl</sub> 
+
+7. [Java Design Patterns](https://java-design-patterns.com/patterns/)<sub>eng</sub> 
+
+8. [100 ważnych pytań dotyczących Javy](https://www.guru99.com/java-interview-questions-answers.html)<sub>eng</sub> 
+
+Tutoriale video:
+
+1. [Derek Banas/Java Video Tutorial](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19)<sub>eng</sub>
+
+2. [Derek Banas/Java Algorithms](https://www.youtube.com/playlist?list=PLGLfVvz_LVvReUrWr94U-ZMgjYTQ538nT)<sub>eng</sub>
+
+3. [Derek Banas/Design Patterns](https://www.youtube.com/playlist?list=PLF206E906175C7E07)<sub>eng</sub>
+
+4. [Derek Banas/Object Oriented Design](https://www.youtube.com/playlist?list=PLGLfVvz_LVvS5P7khyR4xDp7T9lCk9PgE)<sub>eng</sub>
+
+5. [Java Start](https://www.youtube.com/channel/UCLbDRRpKh2LH3a6V5s_QYUw/videos)<sub>pl</sub>
+
+6. [Kanał o Wszystkim](https://www.youtube.com/playlist?list=PL6aekdNhY7DCM1wGLQCE9eP3kPzu-P7E7)<sub>pl</sub>
+
+7. [myeducation pl](https://www.youtube.com/channel/UCxpHyY0itW7OftpW1t5TlKQ/videos)<sub>pl</sub>  
+   Kanał mojego nauczyciela z liceum.  
+
+8. [DevTalk Podcast](https://www.youtube.com/playlist?list=PLN2dx2pIJO6PvvvVKOXJ19y8llsL_GMn4)<sub>pl</sub>  
+   Ogólnie podcast o programowaniu, czasem o Javie.  
+
+Blogi:
+
+1. [Baeldung](https://www.baeldung.com/)<sub>eng</sub>
+
+2. [Najlepsze pytania na StackOverflow](https://stackoverflow.com/questions/tagged/java?sort=votes&pageSize=15)<sub>eng</sub>
+
+3. [Kobiety do kodu](https://kobietydokodu.pl/)<sub>pl</sub>
+
+4. [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)<sub>eng</sub>  
+   Tabelka, pokazująca umiejętności programisty podzielone na kategorie i poziomy.  
 
 Zadania w javie:
 
-1. https://www.w3resource.com/java-exercises/basic/index.php  
+1. [w3resource](https://www.w3resource.com/java-exercises/basic/index.php)<sub>eng</sub>  
+
+2. [Code Wars](https://www.codewars.com/)<sub>eng</sub> 
+
+3. [Daily Programmer](https://www.reddit.com/r/dailyprogrammer/)<sub>eng</sub> 
 
 ---
 
@@ -182,3 +235,9 @@ Zaawansowane przetwarzanie łańcuchów znaków.
 [Projekty wsp01 i wsp02 w wykładu](https://bitbucket.org/przemstp/java-oop/src/master/)  
 
 ---
+
+### Wykład 06.05.2020 (online)  
+[<img src="https://secureservercdn.net/45.40.144.60/cf9.711.myftpupload.com/wp-content/uploads/2020/03/watch-on-youtube-vbf.png" width="201" height="83" title="Obejrzyj wykład na YouTube">](https://www.youtube.com/watch?v=sNBG-UfHpvY)  
+[Interfejs List](https://docs.oracle.com/javase/tutorial/collections/interfaces/list.html)
+[Potoki i strumienie](https://docs.oracle.com/javase/tutorial/collections/streams/index.html)
+[Referencje do metod](https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html)
