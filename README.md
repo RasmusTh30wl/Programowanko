@@ -69,13 +69,10 @@ Test zaliczeniowy
 
 ### Literatura
 
-1. [Dokumentacja](https://docs.oracle.com/javase/8/docs/api/)<sub>eng</sub>
-
-2. [Słowa kluczowe (keywords) w Javie](https://docs.oracle.com/cd/E13226_01/workshop/docs81/pdf/files/workshop/JavaKeywordReference.pdf)<sub>eng</sub>
-
-3. [C. Horstmann, Java. Podstawy.](https://www.ceneo.pl/87688917)<sub>pl</sub>
-
-4. [C. Horstmann, Java. Techniki zaawansowane.](https://www.ceneo.pl/90767068)<sub>pl</sub> 
+1. [Dokumentacja](https://docs.oracle.com/javase/8/docs/api/)<sub>eng</sub>  
+2. [Słowa kluczowe (keywords) w Javie](https://docs.oracle.com/cd/E13226_01/workshop/docs81/pdf/files/workshop/JavaKeywordReference.pdf)<sub>eng</sub>  
+3. [C. Horstmann, Java. Podstawy.](https://www.ceneo.pl/87688917)<sub>pl</sub>  
+4. [C. Horstmann, Java. Techniki zaawansowane.](https://www.ceneo.pl/90767068)<sub>pl</sub>   
 
 ---
 
