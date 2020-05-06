@@ -77,7 +77,9 @@ Test zaliczeniowy
 
 4. [C. Horstmann, Java. Techniki zaawansowane.](https://www.ceneo.pl/90767068)<sub>pl</sub> 
 
-Tutoriale tekstowe:
+---
+
+#### Tutoriale tekstowe:
 
 1. [Oracle](https://docs.oracle.com/javase/tutorial/index.html)<sub>eng</sub>
 
@@ -97,9 +99,11 @@ Tutoriale tekstowe:
 
 7. [Java Design Patterns](https://java-design-patterns.com/patterns/)<sub>eng</sub> 
 
-8. [100 ważnych pytań dotyczących Javy](https://www.guru99.com/java-interview-questions-answers.html)<sub>eng</sub> 
+8. [100 ważnych pytań dotyczących Javy](https://www.guru99.com/java-interview-questions-answers.html)<sub>eng</sub>  
 
-Tutoriale video:
+---
+
+#### Tutoriale video:
 
 1. [Derek Banas/Java Video Tutorial](https://www.youtube.com/playlist?list=PLE7E8B7F4856C9B19)<sub>eng</sub>
 
@@ -118,8 +122,10 @@ Tutoriale video:
 
 8. [DevTalk Podcast](https://www.youtube.com/playlist?list=PLN2dx2pIJO6PvvvVKOXJ19y8llsL_GMn4)<sub>pl</sub>  
    Ogólnie podcast o programowaniu, czasem o Javie.  
+   
+---
 
-Blogi:
+#### Blogi:
 
 1. [Baeldung](https://www.baeldung.com/)<sub>eng</sub>
 
@@ -129,8 +135,10 @@ Blogi:
 
 4. [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)<sub>eng</sub>  
    Tabelka, pokazująca umiejętności programisty podzielone na kategorie i poziomy.  
+   
+---
 
-Zadania w javie:
+#### Zadania w javie:
 
 1. [w3resource](https://www.w3resource.com/java-exercises/basic/index.php)<sub>eng</sub>  
 
