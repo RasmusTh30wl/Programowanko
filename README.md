@@ -233,19 +233,20 @@ Zaawansowane przetwarzanie łańcuchów znaków.
 
 ### Wykład 22.04.2020 (online)  
 [Wyrażenia lambda](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html)  
-[Projekty lambda01 i lambda02 w wykładu](https://bitbucket.org/przemstp/java-oop/src/master/)  
+[Projekty lambda01 i lambda02 z wykładu](https://bitbucket.org/przemstp/java-oop/src/master/)  
 
 ---
 
 ### Wykład 29.04.2020 (online)
 [<img src="https://secureservercdn.net/45.40.144.60/cf9.711.myftpupload.com/wp-content/uploads/2020/03/watch-on-youtube-vbf.png" width="201" height="83" title="Obejrzyj wykład na YouTube">](https://www.youtube.com/watch?v=SNZ6Emu4Reo)  
 [Współbieżność](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)  
-[Projekty wsp01 i wsp02 w wykładu](https://bitbucket.org/przemstp/java-oop/src/master/)  
+[Projekty wsp01 i wsp02 z wykładu](https://bitbucket.org/przemstp/java-oop/src/master/)  
 
 ---
 
 ### Wykład 06.05.2020 (online)  
 [<img src="https://secureservercdn.net/45.40.144.60/cf9.711.myftpupload.com/wp-content/uploads/2020/03/watch-on-youtube-vbf.png" width="201" height="83" title="Obejrzyj wykład na YouTube">](https://www.youtube.com/watch?v=sNBG-UfHpvY)  
-[Interfejs List](https://docs.oracle.com/javase/tutorial/collections/interfaces/list.html)
-[Potoki i strumienie](https://docs.oracle.com/javase/tutorial/collections/streams/index.html)
-[Referencje do metod](https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html)
+[Interfejs List](https://docs.oracle.com/javase/tutorial/collections/interfaces/list.html)  
+[Potoki i strumienie](https://docs.oracle.com/javase/tutorial/collections/streams/index.html)  
+[Referencje do metod](https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html)  
+[Projekty lis01 i lis02 z wykładu](https://bitbucket.org/przemstp/java-oop/src/master/)
