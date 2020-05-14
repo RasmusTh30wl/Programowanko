@@ -153,9 +153,10 @@ Link do pobrania rozwiązań od prowadzących z dysku Google.
 [Zajęcia 6.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%206)  
 [Zajęcia 7.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%207)  
 [Zajęcia 8.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%208)  
-[Zajęcia 9.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%209)
+[Zajęcia 9.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%209)  
+[Zajęcia 10.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%2010)  
 
-[Rozwiązania](https://drive.google.com/open?id=1xCW8yIk8UXEpvM3rhzL4k4hBx_LuHohR)  
+[Rozwiązania](https://drive.google.com/open?id=1ubx7XcsUEui1MXqgrShFTHN7jk-3IK9-)  
 To plik ze wszystkimi rozwiązaniami zebranymi w jedno archwium.  
 Pojedyncze rozwiązania znajdują się też w odpowiednich folderach repozytorium.
 
@@ -232,4 +233,11 @@ Zaawansowane przetwarzanie łańcuchów znaków.
 [Interfejs List](https://docs.oracle.com/javase/tutorial/collections/interfaces/list.html)  
 [Potoki i strumienie](https://docs.oracle.com/javase/tutorial/collections/streams/index.html)  
 [Referencje do metod](https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html)  
-[Projekty lis01 i lis02 z wykładu](https://bitbucket.org/przemstp/java-oop/src/master/)
+[Projekty lis01 i lis02 z wykładu](https://bitbucket.org/przemstp/java-oop/src/master/)  
+
+---
+
+### Wykład 13.05.2020 (online)  
+
+---
+
