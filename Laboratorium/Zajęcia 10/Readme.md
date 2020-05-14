@@ -63,3 +63,5 @@ Metoda powinna działać w dwóch trybach - jedno i wielowątkowym. Wybór trybu
 Każdy wątek powinien przez 1 sekundę losować punkty, a następnie podać otrzymaną proporcję.
 
 Porównaj dokładność trybu jedno i wielowątkowego.
+
+---
