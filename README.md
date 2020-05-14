@@ -145,16 +145,16 @@ Link do pobrania rozwiązań od prowadzących z dysku Google.
 ---
 
 ## Laboratorium
-[Zajęcia 1.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%201)  
-[Zajęcia 2.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%202)  
-[Zajęcia 3.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%203)  
-[Zajęcia 4.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%204)  
-[Zajęcia 5.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%205)  
-[Zajęcia 6.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%206)  
-[Zajęcia 7.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%207)  
-[Zajęcia 8.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%208)  
-[Zajęcia 9.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%209)  
-[Zajęcia 10.](https://github.com/RasmusTh30wl/Programowanko/blob/master/Laboratorium/Zaj%C4%99cia%2010)  
+[Zajęcia 1.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2001)  
+[Zajęcia 2.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2002)  
+[Zajęcia 3.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2003)  
+[Zajęcia 4.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2004)  
+[Zajęcia 5.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2005)  
+[Zajęcia 6.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2006)  
+[Zajęcia 7.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2007)  
+[Zajęcia 8.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2008)  
+[Zajęcia 9.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2009)  
+[Zajęcia 10.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2010)  
 
 [Rozwiązania](https://drive.google.com/open?id=1ubx7XcsUEui1MXqgrShFTHN7jk-3IK9-)  
 To plik ze wszystkimi rozwiązaniami zebranymi w jedno archwium.  
