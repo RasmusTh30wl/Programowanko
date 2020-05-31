@@ -156,8 +156,9 @@ Link do pobrania rozwiązań od prowadzących z dysku Google.
 [Zajęcia 9.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2009)  
 [Zajęcia 10.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2010)  
 [Zajęcia 11.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2011)  
+[Zajęcia 12.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2012)  
 
-[Rozwiązania](https://drive.google.com/open?id=1DdE-9sCX8O1oJqsvIC0YDXHWnwo-1hb7)  
+[Rozwiązania](https://drive.google.com/open?id=1hqyi0FAN1EGGIYs74wQ7AuEiiQqyKfpp)  
 To plik ze wszystkimi rozwiązaniami zebranymi w jedno archwium.  
 Pojedyncze rozwiązania znajdują się też w odpowiednich folderach repozytorium.
 
@@ -253,5 +254,13 @@ Zaawansowane przetwarzanie łańcuchów znaków.
 [Interfejs List](https://docs.oracle.com/javase/tutorial/collections/interfaces/list.html)  
 [Potoki i strumienie](https://docs.oracle.com/javase/tutorial/collections/streams/index.html)  
 [Projekty lis03, lis04 i lis05 z wykładu](https://bitbucket.org/przemstp/java-oop/src/master/)  
+
+---
+
+### Wykład 27.05.2020 (online)
+[<img src="https://secureservercdn.net/45.40.144.60/cf9.711.myftpupload.com/wp-content/uploads/2020/03/watch-on-youtube-vbf.png" width="201" height="83" title="Obejrzyj wykład na YouTube">](https://www.youtube.com/watch?v=cPkLe1AXmuE)  
+[Współbieżność](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)  
+[Równoległość strumieni](https://docs.oracle.com/javase/tutorial/collections/streams/parallelism.html)  
+[Projekty lis06 i rec01 z wykładu](https://bitbucket.org/przemstp/java-oop/src/master/)  
 
 ---
