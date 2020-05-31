@@ -73,25 +73,30 @@ Test zaliczeniowy
 2. [Słowa kluczowe (keywords) w Javie](https://docs.oracle.com/cd/E13226_01/workshop/docs81/pdf/files/workshop/JavaKeywordReference.pdf)<sub>eng</sub>  
 3. [C. Horstmann, Java. Podstawy.](https://www.ceneo.pl/87688917)<sub>pl</sub>  
 4. [C. Horstmann, Java. Techniki zaawansowane.](https://www.ceneo.pl/90767068)<sub>pl</sub>   
+5. [Joshua Bloch, Java. Efektywne programowanie.](https://www.ceneo.pl/66373607)<sub>pl</sub>  
+6. [Jacek Piechota, Matematyka dla programistów Java.](https://www.ceneo.pl/93041025)<sub>pl</sub>  
+
+[Link do wielu książek o Javie](https://drive.google.com/open?id=1R0Iv52F8ltdXjnduDyGuGOrS8k3Y3bHm)  
 
 ---
 
 #### Tutoriale tekstowe:
 
 1. [Oracle](https://docs.oracle.com/javase/tutorial/index.html)<sub>eng</sub>  
-2. [w3schools](https://www.w3schools.com/java/default.asp)<sub>eng</sub>  
-3. [JavAPPa](https://www.javappa.com/kurs-java/klasy-i-obiekty-w-zyciu)<sub>pl</sub>  
-4. [Samouczek Programisty](https://www.samouczekprogramisty.pl/kurs-programowania-java/)<sub>pl</sub>  
-5. [JavaStart](https://javastart.pl/baza-wiedzy)<sub>pl</sub>  
-6. [DevCave](https://devcave.pl/archiwum#effective-java)<sub>pl</sub>  
-7. [Kobiety do kodu/Kurs Java](https://kobietydokodu.pl/kategoria/kurs-javy/)<sub>pl</sub>  
-8. [Kobiety do kody/Niezbędnik Juniora](https://kobietydokodu.pl/kategoria/niezbednik-juniora/)<sub>pl</sub>  
-8. [Java Design Patterns](https://java-design-patterns.com/patterns/)<sub>eng</sub>  
-9. [100 ważnych pytań dotyczących Javy](https://www.guru99.com/java-interview-questions-answers.html)<sub>eng</sub>  
-10. [CodeAcademy](https://www.codecademy.com/learn/learn-java)<sub>eng</sub>  
-11. [Java 8 Tutorial](https://github.com/winterbe/java8-tutorial)<sub>eng</sub>  
-12. [Java 9-11 Tutorial ](https://winterbe.com/posts/2018/09/24/java-11-tutorial/)<sub>eng</sub>  
-13. [Java frameworks, libraries and software](https://github.com/akullpp/awesome-java)<sub>eng</sub>  
+2. [University of Helsinki Massive Open Online Course (MOOC)](https://java-programming.mooc.fi/)<sub>eng</sub>  
+3. [w3schools](https://www.w3schools.com/java/default.asp)<sub>eng</sub>  
+4. [JavAPPa](https://www.javappa.com/kurs-java/klasy-i-obiekty-w-zyciu)<sub>pl</sub>  
+5. [Samouczek Programisty](https://www.samouczekprogramisty.pl/kurs-programowania-java/)<sub>pl</sub>  
+6. [JavaStart](https://javastart.pl/baza-wiedzy)<sub>pl</sub>  
+7. [DevCave](https://devcave.pl/archiwum#effective-java)<sub>pl</sub>  
+8. [Kobiety do kodu/Kurs Java](https://kobietydokodu.pl/kategoria/kurs-javy/)<sub>pl</sub>  
+9. [Kobiety do kody/Niezbędnik Juniora](https://kobietydokodu.pl/kategoria/niezbednik-juniora/)<sub>pl</sub>  
+10. [Java Design Patterns](https://java-design-patterns.com/patterns/)<sub>eng</sub>  
+11. [100 ważnych pytań dotyczących Javy](https://www.guru99.com/java-interview-questions-answers.html)<sub>eng</sub>  
+12. [CodeAcademy](https://www.codecademy.com/learn/learn-java)<sub>eng</sub>  
+13. [Java 8 Tutorial](https://github.com/winterbe/java8-tutorial)<sub>eng</sub>  
+14. [Java 9-11 Tutorial ](https://winterbe.com/posts/2018/09/24/java-11-tutorial/)<sub>eng</sub>  
+15. [Java frameworks, libraries and software](https://github.com/akullpp/awesome-java)<sub>eng</sub>  
 
 ---
 
