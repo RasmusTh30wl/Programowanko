@@ -76,6 +76,8 @@ Test zaliczeniowy
 5. [Joshua Bloch, Java. Efektywne programowanie.](https://www.ceneo.pl/66373607)<sub>pl</sub>  
 6. [Jacek Piechota, Matematyka dla programistów Java.](https://www.ceneo.pl/93041025)<sub>pl</sub>  
 
+---
+
 [Link do wielu książek o Javie](https://drive.google.com/open?id=1R0Iv52F8ltdXjnduDyGuGOrS8k3Y3bHm)  
 
 ---
