@@ -1,4 +1,4 @@
-## Zajęcia 10
+## Zajęcia 11
 Collections, stream, reduce, filter
 
 ---
