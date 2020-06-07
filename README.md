@@ -1,5 +1,4 @@
 # Programowanko
----
    * [Programowanko](#programowanko)
       * [Ogólne informacje](#ogólne-informacje)
          * [Zasady Zaliczenia](#zasady-zaliczenia)
@@ -28,8 +27,6 @@
          * [Wykład 27.05.2020 (online)](#wykład-27052020-online)
          * [Wykład 03.06.2020 (online)](#wykład-03062020-online)
          
----
-        
 ## Ogólne informacje
 
 ### Zasady Zaliczenia
