@@ -277,5 +277,7 @@ Zaawansowane przetwarzanie łańcuchów znaków.
 
 ---
 
-#### Wykład 03.06.2020 (online)
+### Wykład 03.06.2020 (online)
 [<img src="https://secureservercdn.net/45.40.144.60/cf9.711.myftpupload.com/wp-content/uploads/2020/03/watch-on-youtube-vbf.png" width="201" height="83" title="Obejrzyj wykład na YouTube">](https://www.youtube.com/watch?v=HMQp7e04GJ8)  
+
+---
