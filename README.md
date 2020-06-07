@@ -1,4 +1,35 @@
 # Programowanko
+---
+   * [Programowanko](#programowanko)
+      * [Ogólne informacje](#ogólne-informacje)
+         * [Zasady Zaliczenia](#zasady-zaliczenia)
+         * [Tematy](#tematy)
+         * [Literatura](#literatura)
+            * [Tutoriale tekstowe](#tutoriale-tekstowe)
+            * [Tutoriale video](#tutoriale-video)
+            * [Blogi](#blogi)
+            * [Zadania w javie](#zadania-w-javie)
+         * [Materiały z wykładów](#materiały-z-wykładów)
+      * [Kolokwia](#kolokwia)
+         * [Kolokwium 1 - 24.04.2020](#kolokwium-1---24042020)
+      * [Laboratorium](#laboratorium)
+      * [Wykłady](#wykłady)
+         * [Wykład 26.02.2020](#wykład-26022020)
+         * [Wykład 04.03.2020](#wykład-04032020)
+         * [Wykład 11.03.2020](#wykład-11032020)
+         * [Wykład 25.03.2020 (online)](#wykład-25032020-online)
+         * [Wykład 01.04.2020 i 08.04.2020 (online)](#wykład-01042020-i-08042020-online)
+         * [Wykład 15.04.2020 (online)](#wykład-15042020-online)
+         * [Wykład 22.04.2020 (online)](#wykład-22042020-online)
+         * [Wykład 29.04.2020 (online)](#wykład-29042020-online)
+         * [Wykład 06.05.2020 (online)](#wykład-06052020-online)
+         * [Wykład 13.05.2020 (online)](#wykład-13052020-online)
+         * [Wykład 20.05.2020 (online)](#wykład-20052020-online)
+         * [Wykład 27.05.2020 (online)](#wykład-27052020-online)
+         * [Wykład 03.06.2020 (online)](#wykład-03062020-online)
+         
+---
+        
 ## Ogólne informacje
 
 ### Zasady Zaliczenia
@@ -277,7 +308,5 @@ Zaawansowane przetwarzanie łańcuchów znaków.
 
 ---
 
-### Wykład 03.06.2020 (online)
+#### Wykład 03.06.2020 (online)
 [<img src="https://secureservercdn.net/45.40.144.60/cf9.711.myftpupload.com/wp-content/uploads/2020/03/watch-on-youtube-vbf.png" width="201" height="83" title="Obejrzyj wykład na YouTube">](https://www.youtube.com/watch?v=HMQp7e04GJ8)  
-
----
