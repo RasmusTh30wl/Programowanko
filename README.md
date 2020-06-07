@@ -1,7 +1,7 @@
 # Programowanko
 ## Ogólne informacje
 
-### Zasady Zaliczenia  
+<details><summary><h3>Zasady Zaliczenia</h3></summary>  
 Zaliczenie ćwiczeń:
 
 - obecność powyżej 85% (39/45h)
@@ -39,6 +39,7 @@ Ocena z ćwiczeń:
 Ocena końcowa będzie uzależniona od wyniku z ćwiczeń oraz wyniku testu końcowego.
 
 W sesji poprawkowej odbędzie się jedno kolokwium poprawkowe, dla wszystkich osób, które nie zaliczyły przedmiotu w pierwszym terminie. Kolokwium będzie obejmować całość materiału.  
+</details>
 
 ---
 
