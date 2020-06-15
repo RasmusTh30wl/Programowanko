@@ -26,7 +26,7 @@
          * [Wykład 20.05.2020 (online)](#wykład-20052020-online)
          * [Wykład 27.05.2020 (online)](#wykład-27052020-online)
          * [Wykład 03.06.2020 (online)](#wykład-03062020-online)
-         * [Wykład 03.06.2020 (online)](#wykład-10062020-online)
+         * [Wykład 10.06.2020 (online)](#wykład-10062020-online)
          
 ## Ogólne informacje
 
