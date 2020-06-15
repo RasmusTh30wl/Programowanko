@@ -34,3 +34,5 @@ Napisz serwer sieciowy, który będzie kompresował i wysyłał wybrane pliki. S
 - $get - kompresuje pliki z listy do jednego pliku zip i wysyła go. Odpowiedź wieloetapowa: $ok rozmiar, gdzie podawany jest rozmiar pliku zip w bajtach, w drugim etapie wysyłany jest plik we fragmentach nie większych niż 1 MB.
 
 Przetestuj z użyciem telnetu lub samodzielnie napisanego klienta.
+
+---
