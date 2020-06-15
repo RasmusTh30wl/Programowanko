@@ -11,6 +11,7 @@
          * [Materiały z wykładów](#materiały-z-wykładów)
       * [Kolokwia](#kolokwia)
          * [Kolokwium 1 - 24.04.2020](#kolokwium-1---24042020)
+         * [Kolokwium 2 - 19.06.2020](#kolokwium-2---19062020)
       * [Laboratorium](#laboratorium)
       * [Wykłady](#wykłady)
          * [Wykład 26.02.2020](#wykład-26022020)
@@ -90,7 +91,7 @@ W sesji poprawkowej odbędzie się jedno kolokwium poprawkowe, dla wszystkich os
 9. Proste aplikacje sieciowe w języku Java, wybrane klasy z pakietu java.net.
 10. Wyrażenia lambda i strumienie.
 
-Kolokwium
+[Kolokwium](https://github.com/RasmusTh30wl/Programowanko/tree/master/Kolokwium/2%20-%2019.06.2020)
 
 11. Wybrane wzorce projektowe.
 12. Elementy programowania współbieżnego.
@@ -181,6 +182,10 @@ Strona na githubie z treścią zadań i moimi rozwiązaniami 300/300pkt.
 Link do pobrania moich rozwiązań z dysku Google.  
 [Rozwiązania od prowadzących](https://drive.google.com/open?id=1mkHRU9MT5j4LVLVA8OpS6wt-4SN1FBsc)  
 Link do pobrania rozwiązań od prowadzących z dysku Google.  
+
+### Kolokwium 2 - 19.06.2020
+[Treść i moje rozwiązania](https://github.com/RasmusTh30wl/Programowanko/tree/master/Kolokwium/2%20-%2019.06.2020)  
+Strona na githubie z treścią zadań i moimi rozwiązaniami.  
 
 ---
 
