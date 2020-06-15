@@ -26,6 +26,7 @@
          * [Wykład 20.05.2020 (online)](#wykład-20052020-online)
          * [Wykład 27.05.2020 (online)](#wykład-27052020-online)
          * [Wykład 03.06.2020 (online)](#wykład-03062020-online)
+         * [Wykład 03.06.2020 (online)](#wykład-10062020-online)
          
 ## Ogólne informacje
 
@@ -197,8 +198,9 @@ Link do pobrania rozwiązań od prowadzących z dysku Google.
 [Zajęcia 11.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2011)  
 [Zajęcia 12.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2012)  
 [Zajęcia 13.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2013)  
+[Zajęcia 14.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2014)  
 
-[Rozwiązania](https://drive.google.com/file/d/1CYlEnzM9SIf-4jUNDwH4g8Vs7A_32xrl)  
+[Rozwiązania](https://drive.google.com/file/d/1Ip5Ctz2KKIzFXEufBXOHoyrbpvcMIuto)  
 To plik ze wszystkimi rozwiązaniami zebranymi w jedno archwium.  
 Pojedyncze rozwiązania znajdują się też w odpowiednich folderach repozytorium.
 
@@ -307,3 +309,11 @@ Zaawansowane przetwarzanie łańcuchów znaków.
 
 #### Wykład 03.06.2020 (online)
 [<img src="https://secureservercdn.net/45.40.144.60/cf9.711.myftpupload.com/wp-content/uploads/2020/03/watch-on-youtube-vbf.png" width="201" height="83" title="Obejrzyj wykład na YouTube">](https://www.youtube.com/watch?v=HMQp7e04GJ8)  
+
+---
+
+#### Wykład 10.06.2020 (online)
+[<img src="https://secureservercdn.net/45.40.144.60/cf9.711.myftpupload.com/wp-content/uploads/2020/03/watch-on-youtube-vbf.png" width="201" height="83" title="Obejrzyj wykład na YouTube">](https://www.youtube.com/watch?v=bcYC_51Jn4Q)  
+
+---
+
