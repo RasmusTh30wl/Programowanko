@@ -273,14 +273,18 @@ Zaawansowane przetwarzanie łańcuchów znaków.
 ### Wykład 29.04.2020 (online)
 [<img src="https://secureservercdn.net/45.40.144.60/cf9.711.myftpupload.com/wp-content/uploads/2020/03/watch-on-youtube-vbf.png" width="201" height="83" title="Obejrzyj wykład na YouTube">](https://www.youtube.com/watch?v=SNZ6Emu4Reo)  
 [Współbieżność](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)  
+[P. Stpiczyński - Podstawy programowania współbieżnego](https://drive.google.com/file/d/1mC4_oO5E1HqBAid5Rz9T5TOcPHS8wNZc)  
 [Projekty wsp01 i wsp02 z wykładu](https://bitbucket.org/przemstp/java-oop/src/master/)  
 
 ---
 
 ### Wykład 06.05.2020 (online)  
 [<img src="https://secureservercdn.net/45.40.144.60/cf9.711.myftpupload.com/wp-content/uploads/2020/03/watch-on-youtube-vbf.png" width="201" height="83" title="Obejrzyj wykład na YouTube">](https://www.youtube.com/watch?v=sNBG-UfHpvY)  
-[Interfejs List](https://docs.oracle.com/javase/tutorial/collections/interfaces/list.html)  
-[Potoki i strumienie](https://docs.oracle.com/javase/tutorial/collections/streams/index.html)  
+[Interfejs List - dokumentacja](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)  
+[Interfejs List - tutorial](https://docs.oracle.com/javase/tutorial/collections/interfaces/list.html)  
+[Potoki i strumienie - tutorial](https://docs.oracle.com/javase/tutorial/collections/streams/index.html)  
+[Potoki i strumienie - dokumentacja](https://docs.oracle.com/javase/8/docs/api/java/util/stream/package-summary.html)  
+[Processing Data with Java SE 8 Streams](https://www.oracle.com/technical-resources/articles/java/ma14-java-se-8-streams.html)  
 [Referencje do metod](https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html)  
 [Projekty lis01 i lis02 z wykładu](https://bitbucket.org/przemstp/java-oop/src/master/)  
 
@@ -288,8 +292,11 @@ Zaawansowane przetwarzanie łańcuchów znaków.
 
 ### Wykład 13.05.2020 (online)  
 [<img src="https://secureservercdn.net/45.40.144.60/cf9.711.myftpupload.com/wp-content/uploads/2020/03/watch-on-youtube-vbf.png" width="201" height="83" title="Obejrzyj wykład na YouTube">](https://www.youtube.com/watch?v=9KnSI8kqQ9M)  
-[Interfejs List](https://docs.oracle.com/javase/tutorial/collections/interfaces/list.html)  
-[Potoki i strumienie](https://docs.oracle.com/javase/tutorial/collections/streams/index.html)  
+[Interfejs List - dokumentacja](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)  
+[Interfejs List - tutorial](https://docs.oracle.com/javase/tutorial/collections/interfaces/list.html)  
+[Potoki i strumienie - tutorial](https://docs.oracle.com/javase/tutorial/collections/streams/index.html)  
+[Potoki i strumienie - dokumentacja](https://docs.oracle.com/javase/8/docs/api/java/util/stream/package-summary.html)  
+[Processing Data with Java SE 8 Streams](https://www.oracle.com/technical-resources/articles/java/ma14-java-se-8-streams.html)  
 [Referencje do metod](https://docs.oracle.com/javase/tutorial/java/javaOO/methodreferences.html)  
 [Projekty lis03 i lis04 z wykładu](https://bitbucket.org/przemstp/java-oop/src/master/)  
 
@@ -297,9 +304,12 @@ Zaawansowane przetwarzanie łańcuchów znaków.
 
 ### Wykład 20.05.2020 (online)
 [<img src="https://secureservercdn.net/45.40.144.60/cf9.711.myftpupload.com/wp-content/uploads/2020/03/watch-on-youtube-vbf.png" width="201" height="83" title="Obejrzyj wykład na YouTube">](https://www.youtube.com/watch?v=bRYM0cEd-54)  
-[Interfejs Map](https://docs.oracle.com/javase/tutorial/collections/interfaces/map.html)
-[Interfejs List](https://docs.oracle.com/javase/tutorial/collections/interfaces/list.html)  
-[Potoki i strumienie](https://docs.oracle.com/javase/tutorial/collections/streams/index.html)  
+[Interfejs Map - tutorial](https://docs.oracle.com/javase/tutorial/collections/interfaces/map.html)  
+[Interfejs List - dokumentacja](https://docs.oracle.com/javase/8/docs/api/java/util/List.html)  
+[Interfejs List - tutorial](https://docs.oracle.com/javase/tutorial/collections/interfaces/list.html)  
+[Potoki i strumienie - tutorial](https://docs.oracle.com/javase/tutorial/collections/streams/index.html)  
+[Potoki i strumienie - dokumentacja](https://docs.oracle.com/javase/8/docs/api/java/util/stream/package-summary.html)  
+[Processing Data with Java SE 8 Streams](https://www.oracle.com/technical-resources/articles/java/ma14-java-se-8-streams.html)  
 [Projekty lis03, lis04 i lis05 z wykładu](https://bitbucket.org/przemstp/java-oop/src/master/)  
 
 ---
@@ -307,18 +317,22 @@ Zaawansowane przetwarzanie łańcuchów znaków.
 ### Wykład 27.05.2020 (online)
 [<img src="https://secureservercdn.net/45.40.144.60/cf9.711.myftpupload.com/wp-content/uploads/2020/03/watch-on-youtube-vbf.png" width="201" height="83" title="Obejrzyj wykład na YouTube">](https://www.youtube.com/watch?v=cPkLe1AXmuE)  
 [Współbieżność](https://docs.oracle.com/javase/tutorial/essential/concurrency/index.html)  
-[Równoległość strumieni](https://docs.oracle.com/javase/tutorial/collections/streams/parallelism.html)  
+[Równoległość strumieni (Parallelism)](https://docs.oracle.com/javase/tutorial/collections/streams/parallelism.html)  
 [Projekty lis06 i rec01 z wykładu](https://bitbucket.org/przemstp/java-oop/src/master/)  
 
 ---
 
 #### Wykład 03.06.2020 (online)
 [<img src="https://secureservercdn.net/45.40.144.60/cf9.711.myftpupload.com/wp-content/uploads/2020/03/watch-on-youtube-vbf.png" width="201" height="83" title="Obejrzyj wykład na YouTube">](https://www.youtube.com/watch?v=HMQp7e04GJ8)  
+[P. Stpiczyński - Programowanie współbieżne - ciąg dalszy](https://drive.google.com/file/d/1mC4_oO5E1HqBAid5Rz9T5TOcPHS8wNZc)  
+[Projekty rw i ww01 z wykładu](https://bitbucket.org/przemstp/java-oop/src/master/)  
 
 ---
 
 #### Wykład 10.06.2020 (online)
 [<img src="https://secureservercdn.net/45.40.144.60/cf9.711.myftpupload.com/wp-content/uploads/2020/03/watch-on-youtube-vbf.png" width="201" height="83" title="Obejrzyj wykład na YouTube">](https://www.youtube.com/watch?v=bcYC_51Jn4Q)  
+[P. Stpiczyński - Programowanie współbieżne - ciąg dalszy](https://drive.google.com/file/d/1mC4_oO5E1HqBAid5Rz9T5TOcPHS8wNZc)  
+[Projekty rw i ww01 z wykładu](https://bitbucket.org/przemstp/java-oop/src/master/)  
 
 ---
 
