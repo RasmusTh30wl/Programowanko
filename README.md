@@ -186,7 +186,7 @@ Link do pobrania rozwiązań od prowadzących z dysku Google.
 
 ### Kolokwium 2 - 19.06.2020
 [Treść i moje rozwiązania](https://github.com/RasmusTh30wl/Programowanko/tree/master/Kolokwium/2%20-%2019.06.2020)  
-Strona na githubie z treścią zadań i moimi rozwiązaniami.  
+Strona na githubie z treścią zadań i przykładowymi rozwiązaniami.  
 
 ---
 
