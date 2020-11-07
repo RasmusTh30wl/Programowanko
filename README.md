@@ -84,7 +84,7 @@ W sesji poprawkowej odbędzie się jedno kolokwium poprawkowe, dla wszystkich os
 4. Operacje na tablicach, wybrane metody klasy Arrays. 
 5. Operacje na łańcuchach, klasy String, StringBuilder i StringTokenizer.
 
-[Kolokwium](https://github.com/RasmusTh30wl/Programowanko/tree/master/Kolokwium/1%20-%2024.04.2020)
+[Kolokwium](https://github.com/s-tyda/Programowanko/tree/master/Kolokwium/1%20-%2024.04.2020)
 
 6. Klasy i interfejsy generyczne i typy sparametryzowane. Metody parametryzowane typami.
 7. Przechwytywanie, obsługa i zgłaszanie wyjątków.
@@ -92,7 +92,7 @@ W sesji poprawkowej odbędzie się jedno kolokwium poprawkowe, dla wszystkich os
 9. Proste aplikacje sieciowe w języku Java, wybrane klasy z pakietu java.net.
 10. Wyrażenia lambda i strumienie.
 
-[Kolokwium](https://github.com/RasmusTh30wl/Programowanko/tree/master/Kolokwium/2%20-%2019.06.2020)
+[Kolokwium](https://github.com/s-tyda/Programowanko/tree/master/Kolokwium/2%20-%2019.06.2020)
 
 11. Wybrane wzorce projektowe.
 12. Elementy programowania współbieżnego.
@@ -177,7 +177,7 @@ Test zaliczeniowy
 
 ## Kolokwia
 ### Kolokwium 1 - 24.04.2020
-[Treść i moje rozwiązania](https://github.com/RasmusTh30wl/Programowanko/tree/master/Kolokwium/1%20-%2024.04.2020)  
+[Treść i moje rozwiązania](https://github.com/s-tyda/Programowanko/tree/master/Kolokwium/1%20-%2024.04.2020)  
 Strona na githubie z treścią zadań i moimi rozwiązaniami 300/300pkt.  
 [Download](https://drive.google.com/open?id=1ojwSYzUHNfj53-_huyWzIJo5hnx5xOT7)  
 Link do pobrania moich rozwiązań z dysku Google.  
@@ -185,27 +185,27 @@ Link do pobrania moich rozwiązań z dysku Google.
 Link do pobrania rozwiązań od prowadzących z dysku Google.  
 
 ### Kolokwium 2 - 19.06.2020
-[Treść i moje rozwiązania](https://github.com/RasmusTh30wl/Programowanko/tree/master/Kolokwium/2%20-%2019.06.2020)  
+[Treść i moje rozwiązania](https://github.com/s-tyda/Programowanko/tree/master/Kolokwium/2%20-%2019.06.2020)  
 Strona na githubie z treścią zadań i przykładowymi rozwiązaniami.  
 
 ---
 
 ## Laboratorium
-[Zajęcia 1.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2001)  
-[Zajęcia 2.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2002)  
-[Zajęcia 3.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2003)  
-[Zajęcia 4.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2004)  
-[Zajęcia 5.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2005)  
-[Zajęcia 6.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2006)  
-[Zajęcia 7.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2007)  
-[Zajęcia 8.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2008)  
-[Zajęcia 9.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2009)  
-[Zajęcia 10.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2010)  
-[Zajęcia 11.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2011)  
-[Zajęcia 12.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2012)  
-[Zajęcia 13.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2013)  
-[Zajęcia 14.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2014)  
-[Zajęcia 15.](https://github.com/RasmusTh30wl/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2015)  
+[Zajęcia 1.](https://github.com/s-tyda/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2001)  
+[Zajęcia 2.](https://github.com/s-tyda/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2002)  
+[Zajęcia 3.](https://github.com/s-tyda/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2003)  
+[Zajęcia 4.](https://github.com/s-tyda/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2004)  
+[Zajęcia 5.](https://github.com/s-tyda/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2005)  
+[Zajęcia 6.](https://github.com/s-tyda/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2006)  
+[Zajęcia 7.](https://github.com/s-tyda/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2007)  
+[Zajęcia 8.](https://github.com/s-tyda/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2008)  
+[Zajęcia 9.](https://github.com/s-tyda/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2009)  
+[Zajęcia 10.](https://github.com/s-tyda/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2010)  
+[Zajęcia 11.](https://github.com/s-tyda/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2011)  
+[Zajęcia 12.](https://github.com/s-tyda/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2012)  
+[Zajęcia 13.](https://github.com/s-tyda/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2013)  
+[Zajęcia 14.](https://github.com/s-tyda/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2014)  
+[Zajęcia 15.](https://github.com/s-tyda/Programowanko/tree/master/Laboratorium/Zaj%C4%99cia%2015)  
 
 [Rozwiązania](https://drive.google.com/file/d/1Ip5Ctz2KKIzFXEufBXOHoyrbpvcMIuto)  
 To plik ze wszystkimi rozwiązaniami zebranymi w jedno archwium.  
